@@ -1,3 +1,3 @@
 class Employee{
-	String name="sohaib";	
+	String name="sohaib";
 }
